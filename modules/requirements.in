@@ -1,0 +1,5 @@
+yt-dlp==2025.10.14
+requests==2.32.4
+beautifulsoup4==4.12.2
+pydantic==2.11.10
+tweeterpy==2.0.14
